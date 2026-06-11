@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Zhanbo Li**, a Research Assistant at City University of Hong Kong supervised by Prof. Jiaman Wu. My research interests include **human mobility and travel behavior**, **electric vehicles**, and **transportation geography**.
+I am **Zhanbo Li**, a Research Assistant at City University of Hong Kong supervised by Prof. Jiaman Wu. My research interests include **human mobility and travel behavior**, **electric vehicles**, and **transportation geography**. I am currently seeking PhD opportunities for 2027 admission in these areas.
 
 My academic background is in communication engineering and AI. I earned my Bachelor of Communication Engineering (AI Track) from Wuhan University in 2025, with a GPA of 3.86/4.00, an average score of 90.73/100, and a ranking of 10/129.
 
@@ -17,8 +17,6 @@ Research Interests
 * Human mobility and travel behavior
 * Electric vehicles and transport systems
 * Transportation geography
-* Remote sensing and high-resolution land-cover mapping
-* AI-enabled sensing and visual perception systems
 
 Education
 ======
@@ -41,9 +39,6 @@ Supervisor: Prof. Jiaman Wu
 
 **National College Students' Innovation and Entrepreneurship Competition**  
 High-resolution land-cover mapping based on deep learning, Jul 2022 - Jun 2023
-
-* Contributed to a national-level project based on the low-to-high network (L2HNet), generating a 1 m resolution land-cover mapping product for Wuhan and surrounding areas.
-* Responsible for image download and preprocessing, multi-dimensional evaluation and comparison of mapping products, and point-accuracy measurement in selected cities.
 
 Technical Skills
 ======

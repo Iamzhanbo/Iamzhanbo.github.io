@@ -32,8 +32,6 @@ Research Interests
 * Human mobility and travel behavior
 * Electric vehicles
 * Transportation geography
-* Remote sensing and high-resolution land-cover mapping
-* AI-enabled sensing systems
 
 Research Experience
 ======
@@ -45,25 +43,12 @@ Supervisor: Prof. Jiaman Wu
 **National College Students' Innovation and Entrepreneurship Competition**  
 High-resolution land-cover mapping based on deep learning, Jul 2022 - Jun 2023
 
-* Contributed to a national-level project based on the low-to-high network (L2HNet), producing a 1 m resolution land-cover mapping product for Wuhan and surrounding areas while maintaining high accuracy.
-* Responsible for image download and preprocessing, multi-dimensional evaluation and comparison of mapping products, and point-accuracy measurement in selected cities.
-
 Publications
 ======
 
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
-
-Projects
-======
-
-**Intelligent sorting system for a visual robotic arm based on Phytium-pi development board**  
-China College IC Competition, Mar 2024 - Aug 2024  
-Role: main member; national-level prize
-
-* Built an intelligent visual robotic-arm sorting system using a Phytium-pi development board, robotic arm hardware, depth cameras, and conveyor-belt sensing.
-* Responsible for object-category recognition, 3D depth detection optimization, and the selection and layout of peripheral sensors.
 
 Honors
 ======

@@ -12,7 +12,7 @@ site_theme               : "mint" # The available themes options are "default", 
 title                    : "Zhanbo Li"
 title_separator          : "-"
 name                     : &name "Zhanbo Li"
-description              : &description "Research assistant working on human mobility, travel behavior, electric vehicles, transportation geography, and AI-enabled sensing systems."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Research assistant working on human mobility, travel behavior, electric vehicles, and transportation geography. Currently seeking PhD opportunities for 2027 admission."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://Iamzhanbo.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Zhanbo Li"
   pronouns         : # example: "she/her"  
-  bio              : "Research Assistant at City University of Hong Kong. Interests: human mobility, travel behavior, electric vehicles, and transportation geography."
+  bio              : "Research Assistant at City University of Hong Kong. Currently seeking PhD opportunities for 2027 admission in human mobility, travel behavior, electric vehicles, and transportation geography."
   location         : "Hong Kong"
   employer         : "City University of Hong Kong"
   uri              : # URL
