@@ -45,4 +45,4 @@ Technical Skills
 
 * Programming and tools: MATLAB, C/C++, Python, LaTeX, MS Office, Multisim, Quartus, Simulink
 * Languages: Mandarin (native), English (IELTS 7.0)
-* Interests: running, biking, and GeoGuessr
+* Interests: Running (Road & Trail, 7000+ km logged), biking, and GeoGuessr
